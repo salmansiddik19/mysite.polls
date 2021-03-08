@@ -161,7 +161,5 @@ dmypy.json
 ### vscode ###
 .vscode/*
 
-### gitignore ###
-*.gitignore
-
+.idea/
 # End of https://www.toptal.com/developers/gitignore/api/django,vscode,database
